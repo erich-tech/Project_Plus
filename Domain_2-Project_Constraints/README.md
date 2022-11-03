@@ -1,5 +1,5 @@
 
-# Domain 2.0 - Project Basics
+# Domain 2.0 - Project Constraints
 
 | # | Subdomains   | 
 |---|---|
