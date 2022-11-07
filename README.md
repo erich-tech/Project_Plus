@@ -4,7 +4,7 @@ The CompTIA Project+ examination is designed for IT professionals who coordinate
 
 This repository provides notes that I've constructed while studying for the Project+ exam. These notes are designed to be supplementary study material. This repository is in no way affiliated with CompTIA or Pearson VUE and makes no guarantees of accuracy or completeness.
 
-Exam objectives: https://www.comptia.org/training/resources/exam-objectives
+Exam objectives: https://www.comptia.org/training/resources/exam-objectives 
 
 # Domains
 The exam covers 4 domains:
